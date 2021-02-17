@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-import networkx as nx
+#import networkx as nx
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -26,7 +26,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 # import json
-import networkx as nx
+#import networkx as nx
 from networkx.readwrite import json_graph
 import matplotlib.pyplot as plt
 from pyvis import network as net
