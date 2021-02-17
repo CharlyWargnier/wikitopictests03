@@ -6,7 +6,7 @@ import numpy as np
 #import matplotlib.pyplot as plt
 #import seaborn as sns
 
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 #import pywikibot
 import math
 import os
