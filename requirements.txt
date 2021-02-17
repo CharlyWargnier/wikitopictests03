@@ -3,6 +3,7 @@ numpy
 pandas 
 networkx 
 matplotlib
+beautifulsoup4
 
 math
 os
