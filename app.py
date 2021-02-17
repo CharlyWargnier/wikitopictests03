@@ -28,7 +28,7 @@ import streamlit.components.v1 as components
 # import json
 #import networkx as nx
 from networkx.readwrite import json_graph
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from pyvis import network as net
 
 # from IPython.core.display import display, HTML
