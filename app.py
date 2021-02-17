@@ -31,8 +31,6 @@ from networkx.readwrite import json_graph
 #import matplotlib.pyplot as plt
 from pyvis import network as net
 
-# from IPython.core.display import display, HTML
-import got
 
 st.set_page_config(
     page_title="Wiki Topic Grapher",
