@@ -903,7 +903,7 @@ g4.from_nx(G)
 g4.show("wikiOutput.html")
 # display(HTML('karate.html'))
 
-#HtmlFile = open("karate.html", "r")
+HtmlFile = open("karate.html", "r")
 source_code = HtmlFile.read()
 components.html(source_code, height=1000, width=800)
 
