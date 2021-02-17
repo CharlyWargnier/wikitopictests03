@@ -4,6 +4,7 @@ pandas
 networkx 
 matplotlib
 beautifulsoup4
+BeautifulSoup4
 
 math
 os
