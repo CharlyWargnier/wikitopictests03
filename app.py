@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 from bs4 import BeautifulSoup
-import pywikibot
+#import pywikibot
 import math
 import os
 import re
